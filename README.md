@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue" />
+  <img src="https://img.shields.io/badge/Django-6.0-green" />
+  <img src="https://img.shields.io/github/stars/logicwithharshal/django-electronic-store?style=social" />
+  <img src="https://img.shields.io/github/forks/logicwithharshal/django-electronic-store?style=social" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow" />
+</p>
+
 # Django Electronic Store
 
 A Django-based electronic store web app with product listing, cart system, delivery form, and admin panel.
