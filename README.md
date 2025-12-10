@@ -22,3 +22,17 @@ A Django-based electronic store web app with product listing, cart system, deliv
 
 ## Author
 Harshal Raut
+
+## Screenshots
+
+### 🖥️ Product List Page
+![Product List](media/screenshots/product_list.png)
+
+### 🛒 Cart Page
+![Cart](media/screenshots/cart.png)
+
+### 📦 Delivery Form
+![Delivery Form](media/screenshots/delivery_form.png)
+
+### 🔐 Admin Panel
+![Admin Panel](media/screenshots/admin_panel.png)
