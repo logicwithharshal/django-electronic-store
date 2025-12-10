@@ -34,13 +34,13 @@ Harshal Raut
 ## Screenshots
 
 ### 🖥️ Product List Page
-![Product List](media/screenshots/product_list.png)
+![Product List](product.png)
 
 ### 🛒 Cart Page
-![Cart](media/screenshots/cart.png)
+![Cart](cart.png)
 
 ### 📦 Delivery Form
-![Delivery Form](media/screenshots/delivery_form.png)
+![Delivery Form](delivery.png)
 
-### 🔐 Admin Panel
-![Admin Panel](media/screenshots/admin_panel.png)
+### ✅ Thank You Page
+![Thank You](thankyou.png)
