@@ -28,6 +28,22 @@ A Django-based electronic store web app with product listing, cart system, deliv
 - HTML/CSS
 - SQLite
 
+## Project Structure
+django-electronic-store/ │ ├── onlinestore/               # Main project settings
+│   ├── settings.py            # Django settings
+│   ├── urls.py                # Project URL configuration
+│   └── wsgi.py                # WSGI entry point
+│ ├── store/                     # Core app for products & cart
+│   ├── models.py              # Database models
+│   ├── views.py               # View logic
+│   ├── urls.py                # App URL routes
+│   ├── templates/             # HTML templates
+│   └── admin.py               # Admin panel configuration
+│ ├── media/products/            # Uploaded product images
+│ ├── manage.py                  # Django management script
+├── requirements.txt           # Project dependencies
+└── README.md                  # Project documentation
+
 ## Author
 Harshal Raut
 
